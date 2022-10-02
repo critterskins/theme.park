@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="alien"
 THEME="hallway4.css"
-DOMAIN="critterskins.github.io
+DOMAIN="github.com/critterskins/theme.park"
 SCHEME="https"
 ADD_JS="true"
 JS="custom_text_header.js"
